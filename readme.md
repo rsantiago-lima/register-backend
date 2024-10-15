@@ -5,7 +5,6 @@
 Este repositório contém o backend responsável por gerenciar o cadastro de usuários do aplicativo. As principais funcionalidades incluem:
 
 - **Cadastro de novos usuários:** Permite que novos usuários se registrem no sistema.
-- **Autenticação de usuários:** Valida as credenciais dos usuários durante o login.
 - **Gerenciamento de perfis de usuários:** Permite que os usuários visualizem e editem seus próprios dados.
 
 ## Tecnologias Utilizadas
@@ -18,9 +17,3 @@ Este repositório contém o backend responsável por gerenciar o cadastro de usu
 
 Rafael Lima
 rafael.lima1024@gmail.com
-
-```
-
-
-
-```

@@ -1,10 +1,9 @@
 import express from "express";
 import userRoutes from "./routes/users.js";
 import cors from "cors";
-import "dotenv/config";
 
 const app = express();
-const port = process.env.PORT;
+const port = 8800;
 
 app.use(express.json());
 app.use(cors());
