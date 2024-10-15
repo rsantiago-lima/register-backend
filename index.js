@@ -6,7 +6,7 @@ const app = express();
 const port = 8800;
 
 app.use(express.json());
-app.use(cors());
+app.use(cors('https://register-frontend-henna.vercel.app/'));
 app.use("/", userRoutes);
 
 app.listen(port, () => {
